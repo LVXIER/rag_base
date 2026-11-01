@@ -1,0 +1,498 @@
+[
+  {
+    "question_id": "p1_001",
+    "query": "ZTNA不支持与哪个产品联动?",
+    "question_type": "single",
+    "answer": "A",
+    "options": {
+      "A": "VPN",
+      "B": "IAM",
+      "C": "UES(安全空间) D",
+      "D": "IDA"
+    },
+    "gold_doc_ids": [
+      "p1_001_k"
+    ],
+    "source_locator": "page:1,q:1",
+    "issues": []
+  },
+  {
+    "question_id": "p1_002",
+    "query": "以下在用户管理中错误的是()",
+    "question_type": "single",
+    "answer": "D",
+    "options": {
+      "A": "零信任支持扩展用户属性",
+      "B": "零信任支持初始化密码外发",
+      "C": "零信任支持多维度用户管理模型，可以创建多个根目录",
+      "D": "零信任支持账号名修改"
+    },
+    "gold_doc_ids": [
+      "p1_002_k"
+    ],
+    "source_locator": "page:1,q:2",
+    "issues": []
+  },
+  {
+    "question_id": "p1_003",
+    "query": "零信任数据同步目前不支持哪种类型直接对接",
+    "question_type": "single",
+    "answer": "A",
+    "options": {
+      "A": "数据库同步",
+      "B": "企业微信同步",
+      "C": "AD同步",
+      "D": "OpenLDAP同步"
+    },
+    "gold_doc_ids": [
+      "p1_003_k"
+    ],
+    "source_locator": "page:1,q:3",
+    "issues": []
+  },
+  {
+    "question_id": "p1_004",
+    "query": "ZTNA的短信认证支持哪种认证方式()?",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "中国联通",
+      "B": "阿里云",
+      "C": "中国移动",
+      "D": "华为云"
+    },
+    "gold_doc_ids": [
+      "p1_004_k"
+    ],
+    "source_locator": "page:1,q:4",
+    "issues": []
+  },
+  {
+    "question_id": "p1_005",
+    "query": "以下哪些选项不可以在动态策略模块中的预置条件里进行配置",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "接入IP\\本地IP",
+      "B": "运行的软件",
+      "C": "加入的域",
+      "D": "认证方式"
+    },
+    "gold_doc_ids": [
+      "p1_005_k"
+    ],
+    "source_locator": "page:1,q:5",
+    "issues": []
+  },
+  {
+    "question_id": "p1_006",
+    "query": "如果用户要开启ZTNA的SPA敲门功能，不能让外部的其他扫描器扫描到TCP 443的端口，需要开启TA",
+    "question_type": "single",
+    "answer": "C",
+    "options": {
+      "C": "TAP设备的什么敲门方式呢?",
+      "A": "仅TCP SPA端囗敲门",
+      "B": "仅UDP SPA端囗敲门",
+      "D": "端口开发"
+    },
+    "gold_doc_ids": [
+      "p1_006_k"
+    ],
+    "source_locator": "page:1,q:6",
+    "issues": []
+  },
+  {
+    "question_id": "p1_007",
+    "query": "以下哪种场景PC客户端不支持()",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "采用静默安装的方式安装零信任客户端",
+      "B": "可以查杀病毒",
+      "C": "可以实现天擎一体化部署安装使用 D,采用天擎客户端进行零信任客户端推送安装"
+    },
+    "gold_doc_ids": [
+      "p1_007_k"
+    ],
+    "source_locator": "page:1,q:7",
+    "issues": []
+  },
+  {
+    "question_id": "p1_008",
+    "query": "关于终端属性检测项，以下说法错误的是",
+    "question_type": "single",
+    "answer": "C",
+    "options": {
+      "A": "零信任可以检测设备是否开启远控软件",
+      "B": "零信任可以检测是否开启了高危端口",
+      "C": "零信任可以检测病毒库版本是否为最新",
+      "D": "零信任可以检测天擎杀毒软件是否为最新"
+    },
+    "gold_doc_ids": [
+      "p1_008_k"
+    ],
+    "source_locator": "page:1,q:8",
+    "issues": []
+  },
+  {
+    "question_id": "p1_009",
+    "query": "针对多区域场景下，以下问题哪个是错的?",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "零信任客户端可以配置多个不同的接入域名进行登录零信任客户端",
+      "B": "可以根据不同的区域设置不同的授权策略",
+      "C": "一个应用可以发布到多个区域中",
+      "D": "零信任内外网多区域发布，可以配置采用同一个域名通过不同NDS解析进行不同区域零信任登录"
+    },
+    "gold_doc_ids": [
+      "p1_009_k"
+    ],
+    "source_locator": "page:1,q:9",
+    "issues": []
+  },
+  {
+    "question_id": "p1_010",
+    "query": "封装的Android应用，可支持的最低Android系统版本是?",
+    "question_type": "single",
+    "answer": "A",
+    "options": {
+      "A": "Android7.",
+      "B": "Android10.",
+      "C": "Android8.",
+      "D": "Android9.0"
+    },
+    "gold_doc_ids": [
+      "p1_010_k"
+    ],
+    "source_locator": "page:1,q:10",
+    "issues": [
+      "suspected_ocr"
+    ]
+  },
+  {
+    "question_id": "p1_011",
+    "query": "关于零信任3层、4层、7层应用转发，以下说法错误的是0",
+    "question_type": "single",
+    "answer": "A",
+    "options": {
+      "A": "零信任三层、四层应用不需要使用客户端就可以进行发布访问",
+      "B": "零信任四层应用支持TCP,不支持UDP",
+      "C": "零信任7层应用是无端模式",
+      "D": "零信任三层应用是NC长连接"
+    },
+    "gold_doc_ids": [
+      "p1_011_k"
+    ],
+    "source_locator": "page:1,q:11",
+    "issues": []
+  },
+  {
+    "question_id": "p1_012",
+    "query": "工作空间防火墙配置添加规则:www.qianxin.com，允许访问，以下说法正确的是?",
+    "question_type": "single",
+    "answer": "D",
+    "options": {
+      "A": "工作空间内禁止访问次地址，个人空间允许访问 8.工作空间内可以访问此地址，个人空间禁止访问",
+      "C": "工作空间与个人空间随机访问此地址，空间内外互斥",
+      "D": "工作空间和个人空间都可以访问该地址"
+    },
+    "gold_doc_ids": [
+      "p1_012_k"
+    ],
+    "source_locator": "page:1,q:12",
+    "issues": [
+      "option_letter_gap"
+    ]
+  },
+  {
+    "question_id": "p1_013",
+    "query": "与AD联动时，以下哪种场景不是正确的使用方式",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "可以在TAC上存储多个AD根目录",
+      "B": "将AD组织机构同步到TAC后，对TAC存储的AD组织机构名称进行修改",
+      "C": "可以配置只拉取用户不拉取组织机构信息",
+      "D": "可以配置过滤条件，拉取过滤后的数据信息"
+    },
+    "gold_doc_ids": [
+      "p1_013_k"
+    ],
+    "source_locator": "page:1,q:13",
+    "issues": []
+  },
+  {
+    "question_id": "p1_014",
+    "query": "关于终端设备，以下说法错误的是()",
+    "question_type": "single",
+    "answer": "D",
+    "options": {
+      "A": "零信任支持设备绑定，可以限制设备绑定策略，如一台PC设备或移动设备最大可绑定用户，以及一个用户最大可绑定的PC设备和移动设备",
+      "B": "零信任支持设备清单库的导入、导出",
+      "C": "零信任支持对接入绑定的设备进行批量标记，可以判断是企业签发设备(COPE)还是员工自带设备(BYOD",
+      "D": "零信任无法限制只有签发的设备才能进行登录"
+    },
+    "gold_doc_ids": [
+      "p1_014_k"
+    ],
+    "source_locator": "page:1,q:14",
+    "issues": []
+  },
+  {
+    "question_id": "p1_015",
+    "query": "关于终端管理，以下说法错误的是()",
+    "question_type": "single",
+    "answer": "C",
+    "options": {
+      "A": "零信任支持批量启用、禁用、冻结、删除设备",
+      "B": "零信任支持设备绑定、解绑",
+      "C": "零信任3.x版本支持终端检测并进行打分，通过分值实现访问控制",
+      "D": "零信任支持收集终端应用，可设置终端应用是否可信，可以设定哪些业务只能由可信应用进行访问"
+    },
+    "gold_doc_ids": [
+      "p1_015_k"
+    ],
+    "source_locator": "page:1,q:15",
+    "issues": []
+  },
+  {
+    "question_id": "p1_016",
+    "query": "以下哪项为奇安信ID不支持的配置项?",
+    "question_type": "single",
+    "answer": "C",
+    "options": {
+      "A": "可以修改奇安信ID令牌的验证周期",
+      "B": "支持批量禁用，批量解绑、批量更新令牌密钥",
+      "C": "可以在没有网路的场景登录奇安信ID",
+      "D": "可以配置终端绑定数"
+    },
+    "gold_doc_ids": [
+      "p1_016_k"
+    ],
+    "source_locator": "page:1,q:16",
+    "issues": []
+  },
+  {
+    "question_id": "p1_017",
+    "query": "工作空间内数据默认禁止通过剪切板复制至空间外，可通过管理员授权后导出。那么当前系统支持的剪切板数据导出有哪几种方式?",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "Windows客户端仅支持授权方式将剪切板数据导出至空间外。信创客户端支持通过授权方式允许用户将剪切板数据或指定长度的剪切板数据两种方式导出至空间外。",
+      "B": "Windows客户端支持通过授权方式允许用户将剪切板数据或指定长度的剪切板数据两种方式导出至空间外。信创客户端仅支持授权方式将剪切板数据导出至空间外。",
+      "C": "Windows、信创客户端仅支持剪切板数据导出至空间外",
+      "D": "Windows、信创客户端仅支持指定长度剪切板数据导出至空间外"
+    },
+    "gold_doc_ids": [
+      "p1_017_k"
+    ],
+    "source_locator": "page:1,q:17",
+    "issues": []
+  },
+  {
+    "question_id": "p1_018",
+    "query": "工作空间内文件默认情况下不允许导出至空间外，可通过授权方式导出，目前支持的导出方式支持哪些?",
+    "question_type": "single",
+    "answer": "A",
+    "options": {
+      "A": "Windows客户端支持右键菜单明文导出、右键菜单密文导出。信创客户端支持右键菜单明文导出",
+      "B": "Windows、信创客户端仅支持右键菜单明文导出",
+      "C": "Windows客户端支持右键菜单明文导出、右键菜单申请导出;信创客户端仅支持右键菜单明文导出",
+      "D": "Windows、信创客户端支持右键菜单明文导出、右键菜单密文导出"
+    },
+    "gold_doc_ids": [
+      "p1_018_k"
+    ],
+    "source_locator": "page:1,q:18",
+    "issues": []
+  },
+  {
+    "question_id": "p1_019",
+    "query": "针对WEB应用场景，以下说法错误的是0",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "零信任7层应用发布，可以配置访问URL规则黑白名单",
+      "B": "零信任支持发布WEB应用，WEB应用发布必须登录客户端才能访问",
+      "C": "零信任针对7层应用，有权限、动态访问控制、WEB水印、限流限速、日志审计等安全防护",
+      "D": "零信任支持WEB应用溯源，可在web应用加入xff字段，将源ip传递到业务系统进行溯源;"
+    },
+    "gold_doc_ids": [
+      "p1_019_k"
+    ],
+    "source_locator": "page:1,q:19",
+    "issues": []
+  },
+  {
+    "question_id": "p1_020",
+    "query": "关于终端绑走，以下说法错误的是",
+    "question_type": "single",
+    "answer": "D",
+    "options": {
+      "A": "设备绑定用户可以进行多因子自助绑定或管理员审批",
+      "B": "设备绑定可以设置只有签发的设备或只有导入的设备才能绑定",
+      "C": "设备绑走可以设置1台 C或移动设备最大可绑定多少用户 D,和设备绑定不能设置绑定PC的数量和移动终端的数量 。"
+    },
+    "gold_doc_ids": [
+      "p1_020_k"
+    ],
+    "source_locator": "page:1,q:20",
+    "issues": []
+  },
+  {
+    "question_id": "p1_021",
+    "query": "在ZTNA的本体安全模块中支持哪些规则设置\n不正确的是?",
+    "question_type": "single",
+    "answer": "C",
+    "options": {
+      "A": "操作系统加固",
+      "B": "文件监控与防护",
+      "C": "WEB加固",
+      "D": "暴力破解防护"
+    },
+    "gold_doc_ids": [
+      "p1_021_k"
+    ],
+    "source_locator": "page:1,q:21",
+    "issues": []
+  },
+  {
+    "question_id": "p1_022",
+    "query": "关于零信任应用的溯源审计问题，以下说法错误的是()",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "零信任支持C/S应用源地址审计，通过虚拟网卡访问，可以记录NC地址池中分配的IP",
+      "B": "零信任发布成TCP4层代理应用，被代理的业务系统中可以看到零信任客户端访问源地址",
+      "C": "零信任支持代理应用源地址审计，可以通过tcp option方案获取源IP",
+      "D": "零信任支持WEB应用源地址审计，可以通过proxy protocol方案传输源IP到业务系统"
+    },
+    "gold_doc_ids": [
+      "p1_022_k"
+    ],
+    "source_locator": "page:1,q:22",
+    "issues": []
+  },
+  {
+    "question_id": "p1_023",
+    "query": "24.已被工作空间内关联的零信任应用，如何访问?",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "A": "只能个人空间可以访问",
+      "B": "默认情况下，该应用只能在工作空间内访问",
+      "C": "工作空间和个人空间都可以访问",
+      "D": "随机访问，空间内外互斥"
+    },
+    "gold_doc_ids": [
+      "p1_023_k"
+    ],
+    "source_locator": "page:1,q:23",
+    "issues": []
+  },
+  {
+    "question_id": "p1_024",
+    "query": "25.ZTNA多因子认证中，哪种认证方式不支持?",
+    "question_type": "single",
+    "answer": "D",
+    "options": {
+      "A": "奇安信ID认证",
+      "B": "短信认证",
+      "C": "邮箱认证",
+      "D": "扫码认证"
+    },
+    "gold_doc_ids": [
+      "p1_024_k"
+    ],
+    "source_locator": "page:1,q:24",
+    "issues": []
+  },
+  {
+    "question_id": "p1_025",
+    "query": "封装的iOS应用\n可支持的最低i0S系统版本是?",
+    "question_type": "single",
+    "answer": "A",
+    "options": {
+      "A": "ios9",
+      "B": "iOS11",
+      "C": "ios10",
+      "D": "i0S4"
+    },
+    "gold_doc_ids": [
+      "p1_025_k"
+    ],
+    "source_locator": "page:1,q:25",
+    "issues": []
+  },
+  {
+    "question_id": "p1_026",
+    "query": "关于终端绑定以下说法错误的是0)\n设备绑定不能设置绑定PC的数量和移动终端的数量\n设备绑定用户可以进行多因子自助绑定或管理员审批\n设备绑走可以设置只有签发的设备或只有导入的设备才能绑走",
+    "question_type": "single",
+    "answer": "A",
+    "options": {
+      "D": "设备绑定可以设置1台"
+    },
+    "gold_doc_ids": [
+      "p1_026_k"
+    ],
+    "source_locator": "page:1,q:26",
+    "issues": [
+      "options_not_starting_from_A",
+      "option_letter_gap"
+    ]
+  },
+  {
+    "question_id": "p1_027",
+    "query": "工作空间内文件默认情况下不允许导出至空间外，可通过授权方式导出，目前支持的导出方式支持哪些?\nWindows、信创客户端支持右键菜单明文导出、右键菜单密文导出",
+    "question_type": "single",
+    "answer": "B",
+    "options": {
+      "B": "Windows客户端支持右键菜单明文导出、右键菜单密文导出。信创客户端支持右键菜单明文导出",
+      "C": "Windows客户端支持右键菜单明文导出、右键菜单申请导出;信创客户端仅支持右键菜单明文导出",
+      "D": "Windows、信创客户端仅支持右键菜单明文导出"
+    },
+    "gold_doc_ids": [
+      "p1_027_k"
+    ],
+    "source_locator": "page:1,q:27",
+    "issues": [
+      "options_not_starting_from_A",
+      "option_letter_gap"
+    ]
+  },
+  {
+    "question_id": "p1_028",
+    "query": "零信任3层、4层、7层应用转发，以下说法错误的是()",
+    "question_type": "single",
+    "answer": "C",
+    "options": {
+      "A": "零信任四层应用支持TCP,不支持UDP",
+      "B": "零信任7层应用是无端模式",
+      "C": "零信任三层、四层应用不需要使用客户端就可以进行发布访问",
+      "D": "零信任三层应用是NC长连接"
+    },
+    "gold_doc_ids": [
+      "p1_028_k"
+    ],
+    "source_locator": "page:1,q:28",
+    "issues": []
+  },
+  {
+    "question_id": "p1_029",
+    "query": "30. 关于零信任应用发布，以下说法错误的是0)",
+    "question_type": "single",
+    "answer": "D",
+    "options": {
+      "A": "零信任支持发布虚拟服务，将业务直接通过虚拟服务通道发布到外网，不需要零信任认证",
+      "B": "零信任支持应用发布自助申请权限，发布后用户可根据访问需要对应用进行访问申请",
+      "C": "零信任支持应用分类管理，可以将具有某些共同点或相似特征的应用归属于一个应用分类集合中",
+      "D": "零信任支持WEB应用开启SPA访问"
+    },
+    "gold_doc_ids": [
+      "p1_029_k"
+    ],
+    "source_locator": "page:1,q:29",
+    "issues": []
+  }
+]

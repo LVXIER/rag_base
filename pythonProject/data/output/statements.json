@@ -1,0 +1,302 @@
+[
+  {
+    "record_id": "p1_001_k",
+    "content": "针对问题「ZTNA不支持与哪个产品联动?」，正确答案是：A.VPN。",
+    "content_type": "qa",
+    "token_count": 17,
+    "content_hash": "6915a21a4c6478c58fd5775e19cb75af",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:1",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_002_k",
+    "content": "针对问题「以下在用户管理中错误的是()」，正确答案是：D.零信任支持账号名修改。",
+    "content_type": "qa",
+    "token_count": 20,
+    "content_hash": "e11b887a35413c725863b0844bf72a63",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:2",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_003_k",
+    "content": "针对问题「零信任数据同步目前不支持哪种类型直接对接」，正确答案是：A.数据库同步。",
+    "content_type": "qa",
+    "token_count": 20,
+    "content_hash": "a0827e3aed907138e6547a36c81d5481",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:3",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_004_k",
+    "content": "针对问题「ZTNA的短信认证支持哪种认证方式()?」，正确答案是：B.阿里云。",
+    "content_type": "qa",
+    "token_count": 19,
+    "content_hash": "fea4c1722888725c3c5af1961ebbfa04",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:4",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_005_k",
+    "content": "针对问题「以下哪些选项不可以在动态策略模块中的预置条件里进行配置」，正确答案是：B.运行的软件。",
+    "content_type": "qa",
+    "token_count": 24,
+    "content_hash": "0299a4ebd2d612987c6fc11a892f87e6",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:5",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_006_k",
+    "content": "针对问题「如果用户要开启ZTNA的SPA敲门功能，不能让外部的其他扫描器扫描到TCP 443的端口，需要开启TA」，正确答案是：C.TAP设备的什么敲门方式呢?。",
+    "content_type": "qa",
+    "token_count": 40,
+    "content_hash": "41387b2e067b094d31d313d7aeca4702",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:6",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_007_k",
+    "content": "针对问题「以下哪种场景PC客户端不支持()」，正确答案是：B.可以查杀病毒。",
+    "content_type": "qa",
+    "token_count": 19,
+    "content_hash": "c8fe799deef32ff648969477a7ab8c0a",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:7",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_008_k",
+    "content": "针对问题「关于终端属性检测项，以下说法错误的是」，正确答案是：C.零信任可以检测病毒库版本是否为最新。",
+    "content_type": "qa",
+    "token_count": 25,
+    "content_hash": "977e9847aed799f1aa048ddafb15ed34",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:8",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_009_k",
+    "content": "针对问题「针对多区域场景下，以下问题哪个是错的?」，正确答案是：B.可以根据不同的区域设置不同的授权策略。",
+    "content_type": "qa",
+    "token_count": 26,
+    "content_hash": "d955b9b869a87150b4cad0cc92550f62",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:9",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_010_k",
+    "content": "针对问题「封装的Android应用，可支持的最低Android系统版本是?」，正确答案是：A.Android7.。",
+    "content_type": "qa",
+    "token_count": 28,
+    "content_hash": "9f3f9830dc775da21e6f0d5aba5a7444",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:10",
+    "quality_flags": [
+      "suspected_ocr"
+    ]
+  },
+  {
+    "record_id": "p1_011_k",
+    "content": "针对问题「关于零信任3层、4层、7层应用转发，以下说法错误的是0」，正确答案是：A.零信任三层、四层应用不需要使用客户端就可以进行发布访问。",
+    "content_type": "qa",
+    "token_count": 35,
+    "content_hash": "1f523f63a3946432b5aa3ad774b202b5",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:11",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_012_k",
+    "content": "针对问题「工作空间防火墙配置添加规则:www.qianxin.com，允许访问，以下说法正确的是?」，正确答案是：D.工作空间和个人空间都可以访问该地址。",
+    "content_type": "qa",
+    "token_count": 38,
+    "content_hash": "c128c09dc52599bd092841c9ea9bc5a9",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:12",
+    "quality_flags": [
+      "option_letter_gap"
+    ]
+  },
+  {
+    "record_id": "p1_013_k",
+    "content": "针对问题「与AD联动时，以下哪种场景不是正确的使用方式」，正确答案是：B.将AD组织机构同步到TAC后，对TAC存储的AD组织机构名称进行修改。",
+    "content_type": "qa",
+    "token_count": 36,
+    "content_hash": "99cd40b4caadd76fd84d6f3d31db7306",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:13",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_014_k",
+    "content": "针对问题「关于终端设备，以下说法错误的是()」，正确答案是：D.零信任无法限制只有签发的设备才能进行登录。",
+    "content_type": "qa",
+    "token_count": 26,
+    "content_hash": "91a829dd6d938185da0441288ed863ab",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:14",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_015_k",
+    "content": "针对问题「关于终端管理，以下说法错误的是()」，正确答案是：C.零信任3.x版本支持终端检测并进行打分，通过分值实现访问控制。",
+    "content_type": "qa",
+    "token_count": 31,
+    "content_hash": "4fd63a422aed51cee852b405c969e6fa",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:15",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_016_k",
+    "content": "针对问题「以下哪项为奇安信ID不支持的配置项?」，正确答案是：C.可以在没有网路的场景登录奇安信ID。",
+    "content_type": "qa",
+    "token_count": 25,
+    "content_hash": "a3e8c2dc860f330682d793e59a529d66",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:16",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_017_k",
+    "content": "针对问题「工作空间内数据默认禁止通过剪切板复制至空间外，可通过管理员授权后导出。那么当前系统支持的剪切板数据导出有哪几种方式?」，正确答案是：B.Windows客户端支持通过授权方式允许用户将剪切板数据或指定长度的剪切板数据两种方式导出至空间外。信创客户端仅支持授权方式将剪切板数据导出至空间外。。",
+    "content_type": "qa",
+    "token_count": 74,
+    "content_hash": "d018e293dccf4a0f6cc74c19cbae14d5",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:17",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_018_k",
+    "content": "针对问题「工作空间内文件默认情况下不允许导出至空间外，可通过授权方式导出，目前支持的导出方式支持哪些?」，正确答案是：A.Windows客户端支持右键菜单明文导出、右键菜单密文导出。信创客户端支持右键菜单明文导出。",
+    "content_type": "qa",
+    "token_count": 53,
+    "content_hash": "4d370df28925e2da80c1d110ca13f7b6",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:18",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_019_k",
+    "content": "针对问题「针对WEB应用场景，以下说法错误的是0」，正确答案是：B.零信任支持发布WEB应用，WEB应用发布必须登录客户端才能访问。",
+    "content_type": "qa",
+    "token_count": 33,
+    "content_hash": "b772e7533357a90a8e2725e8b942cf20",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:19",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_020_k",
+    "content": "针对问题「关于终端绑走，以下说法错误的是」，正确答案是：D。",
+    "content_type": "qa",
+    "token_count": 15,
+    "content_hash": "8d0a806672ca18c1add1977f311e71c6",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:20",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_021_k",
+    "content": "针对问题「在ZTNA的本体安全模块中支持哪些规则设置\n不正确的是?」，正确答案是：C.WEB加固。",
+    "content_type": "qa",
+    "token_count": 24,
+    "content_hash": "9d1f7b80f9df95159ae883bf3acf886e",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:21",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_022_k",
+    "content": "针对问题「关于零信任应用的溯源审计问题，以下说法错误的是()」，正确答案是：B.零信任发布成TCP4层代理应用，被代理的业务系统中可以看到零信任客户端访问源地址。",
+    "content_type": "qa",
+    "token_count": 40,
+    "content_hash": "eef7e78d43fe6b0df671f24f73f1c68e",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:22",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_023_k",
+    "content": "针对问题「24.已被工作空间内关联的零信任应用，如何访问?」，正确答案是：B.默认情况下，该应用只能在工作空间内访问。",
+    "content_type": "qa",
+    "token_count": 29,
+    "content_hash": "d5190d50b49b399d03d59a77a6c08495",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:23",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_024_k",
+    "content": "针对问题「25.ZTNA多因子认证中，哪种认证方式不支持?」，正确答案是：D.扫码认证。",
+    "content_type": "qa",
+    "token_count": 22,
+    "content_hash": "eb1480403ac7ecb4a4d70fd11c4f485c",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:24",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_025_k",
+    "content": "针对问题「封装的iOS应用\n可支持的最低i0S系统版本是?」，正确答案是：A.ios9。",
+    "content_type": "qa",
+    "token_count": 22,
+    "content_hash": "9e611af0896b0093aa07b63bbb83ba95",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:25",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_026_k",
+    "content": "针对问题「关于终端绑定以下说法错误的是0)\n设备绑定不能设置绑定PC的数量和移动终端的数量\n设备绑定用户可以进行多因子自助绑定或管理员审批\n设备绑走可以设置只有签发的设备或只有导入的设备才能绑走」，正确答案是：A。",
+    "content_type": "qa",
+    "token_count": 53,
+    "content_hash": "5ffe01735c2f734f057656f67e204e2f",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:26",
+    "quality_flags": [
+      "options_not_starting_from_A",
+      "option_letter_gap"
+    ]
+  },
+  {
+    "record_id": "p1_027_k",
+    "content": "针对问题「工作空间内文件默认情况下不允许导出至空间外，可通过授权方式导出，目前支持的导出方式支持哪些?\nWindows、信创客户端支持右键菜单明文导出、右键菜单密文导出」，正确答案是：B.Windows客户端支持右键菜单明文导出、右键菜单密文导出。信创客户端支持右键菜单明文导出。",
+    "content_type": "qa",
+    "token_count": 70,
+    "content_hash": "2f1a33ba3b2710c256ec78fa7a63485a",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:27",
+    "quality_flags": [
+      "options_not_starting_from_A",
+      "option_letter_gap"
+    ]
+  },
+  {
+    "record_id": "p1_028_k",
+    "content": "针对问题「零信任3层、4层、7层应用转发，以下说法错误的是()」，正确答案是：C.零信任三层、四层应用不需要使用客户端就可以进行发布访问。",
+    "content_type": "qa",
+    "token_count": 34,
+    "content_hash": "15c2be112e15edcd53326e9fcc75866b",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:28",
+    "quality_flags": []
+  },
+  {
+    "record_id": "p1_029_k",
+    "content": "针对问题「30. 关于零信任应用发布，以下说法错误的是0)」，正确答案是：D.零信任支持WEB应用开启SPA访问。",
+    "content_type": "qa",
+    "token_count": 28,
+    "content_hash": "cfcf772ddfcda1c97898103ebf1b2055",
+    "source_file": "30题的测试集.docx",
+    "source_locator": "page:1,q:29",
+    "quality_flags": []
+  }
+]

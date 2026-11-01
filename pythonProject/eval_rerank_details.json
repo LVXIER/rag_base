@@ -1,0 +1,495 @@
+[
+  {
+    "question_id": "p1_001",
+    "query": "ZTNA不支持与哪个产品联动?",
+    "gold_doc_ids": [
+      "p1_001_k"
+    ],
+    "retrieved_ids": [
+      "p1_001_k",
+      "p1_024_k",
+      "p1_006_k",
+      "p1_021_k",
+      "p1_004_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_002",
+    "query": "以下在用户管理中错误的是()",
+    "gold_doc_ids": [
+      "p1_002_k"
+    ],
+    "retrieved_ids": [
+      "p1_002_k",
+      "p1_015_k",
+      "p1_014_k",
+      "p1_026_k",
+      "p1_028_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_003",
+    "query": "零信任数据同步目前不支持哪种类型直接对接",
+    "gold_doc_ids": [
+      "p1_003_k"
+    ],
+    "retrieved_ids": [
+      "p1_003_k",
+      "p1_011_k",
+      "p1_028_k",
+      "p1_022_k",
+      "p1_015_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_004",
+    "query": "ZTNA的短信认证支持哪种认证方式()?",
+    "gold_doc_ids": [
+      "p1_004_k"
+    ],
+    "retrieved_ids": [
+      "p1_004_k",
+      "p1_024_k",
+      "p1_006_k",
+      "p1_021_k",
+      "p1_014_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_005",
+    "query": "以下哪些选项不可以在动态策略模块中的预置条件里进行配置",
+    "gold_doc_ids": [
+      "p1_005_k"
+    ],
+    "retrieved_ids": [
+      "p1_026_k",
+      "p1_018_k",
+      "p1_005_k",
+      "p1_013_k",
+      "p1_028_k"
+    ],
+    "hit": true,
+    "rr": 0.3333333333333333,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_006",
+    "query": "如果用户要开启ZTNA的SPA敲门功能，不能让外部的其他扫描器扫描到TCP 443的端口，需要开启TA",
+    "gold_doc_ids": [
+      "p1_006_k"
+    ],
+    "retrieved_ids": [
+      "p1_006_k",
+      "p1_029_k",
+      "p1_022_k",
+      "p1_021_k",
+      "p1_014_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_007",
+    "query": "以下哪种场景PC客户端不支持()",
+    "gold_doc_ids": [
+      "p1_007_k"
+    ],
+    "retrieved_ids": [
+      "p1_007_k",
+      "p1_026_k",
+      "p1_027_k",
+      "p1_015_k",
+      "p1_018_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_008",
+    "query": "关于终端属性检测项，以下说法错误的是",
+    "gold_doc_ids": [
+      "p1_008_k"
+    ],
+    "retrieved_ids": [
+      "p1_026_k",
+      "p1_022_k",
+      "p1_014_k",
+      "p1_028_k",
+      "p1_015_k"
+    ],
+    "hit": false,
+    "rr": 0.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_009",
+    "query": "针对多区域场景下，以下问题哪个是错的?",
+    "gold_doc_ids": [
+      "p1_009_k"
+    ],
+    "retrieved_ids": [
+      "p1_009_k",
+      "p1_018_k",
+      "p1_027_k",
+      "p1_026_k",
+      "p1_013_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_010",
+    "query": "封装的Android应用，可支持的最低Android系统版本是?",
+    "gold_doc_ids": [
+      "p1_010_k"
+    ],
+    "retrieved_ids": [
+      "p1_010_k",
+      "p1_025_k",
+      "p1_026_k",
+      "p1_014_k",
+      "p1_023_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_011",
+    "query": "关于零信任3层、4层、7层应用转发，以下说法错误的是0",
+    "gold_doc_ids": [
+      "p1_011_k"
+    ],
+    "retrieved_ids": [
+      "p1_011_k",
+      "p1_028_k",
+      "p1_015_k",
+      "p1_022_k",
+      "p1_029_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_012",
+    "query": "工作空间防火墙配置添加规则:www.qianxin.com，允许访问，以下说法正确的是?",
+    "gold_doc_ids": [
+      "p1_012_k"
+    ],
+    "retrieved_ids": [
+      "p1_012_k",
+      "p1_018_k",
+      "p1_027_k",
+      "p1_023_k",
+      "p1_014_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_013",
+    "query": "与AD联动时，以下哪种场景不是正确的使用方式",
+    "gold_doc_ids": [
+      "p1_013_k"
+    ],
+    "retrieved_ids": [
+      "p1_013_k",
+      "p1_026_k",
+      "p1_014_k",
+      "p1_005_k",
+      "p1_009_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_014",
+    "query": "关于终端设备，以下说法错误的是()",
+    "gold_doc_ids": [
+      "p1_014_k"
+    ],
+    "retrieved_ids": [
+      "p1_026_k",
+      "p1_014_k",
+      "p1_028_k",
+      "p1_015_k",
+      "p1_008_k"
+    ],
+    "hit": true,
+    "rr": 0.5,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_015",
+    "query": "关于终端管理，以下说法错误的是()",
+    "gold_doc_ids": [
+      "p1_015_k"
+    ],
+    "retrieved_ids": [
+      "p1_026_k",
+      "p1_014_k",
+      "p1_015_k",
+      "p1_018_k",
+      "p1_013_k"
+    ],
+    "hit": true,
+    "rr": 0.3333333333333333,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_016",
+    "query": "以下哪项为奇安信ID不支持的配置项?",
+    "gold_doc_ids": [
+      "p1_016_k"
+    ],
+    "retrieved_ids": [
+      "p1_016_k",
+      "p1_011_k",
+      "p1_028_k",
+      "p1_014_k",
+      "p1_026_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_017",
+    "query": "工作空间内数据默认禁止通过剪切板复制至空间外，可通过管理员授权后导出。那么当前系统支持的剪切板数据导出有哪几种方式?",
+    "gold_doc_ids": [
+      "p1_017_k"
+    ],
+    "retrieved_ids": [
+      "p1_017_k",
+      "p1_027_k",
+      "p1_018_k",
+      "p1_023_k",
+      "p1_012_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_018",
+    "query": "工作空间内文件默认情况下不允许导出至空间外，可通过授权方式导出，目前支持的导出方式支持哪些?",
+    "gold_doc_ids": [
+      "p1_018_k"
+    ],
+    "retrieved_ids": [
+      "p1_018_k",
+      "p1_027_k",
+      "p1_017_k",
+      "p1_023_k",
+      "p1_012_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_019",
+    "query": "针对WEB应用场景，以下说法错误的是0",
+    "gold_doc_ids": [
+      "p1_019_k"
+    ],
+    "retrieved_ids": [
+      "p1_019_k",
+      "p1_029_k",
+      "p1_011_k",
+      "p1_022_k",
+      "p1_015_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_020",
+    "query": "关于终端绑走，以下说法错误的是",
+    "gold_doc_ids": [
+      "p1_020_k"
+    ],
+    "retrieved_ids": [
+      "p1_026_k",
+      "p1_014_k",
+      "p1_015_k",
+      "p1_013_k",
+      "p1_020_k"
+    ],
+    "hit": true,
+    "rr": 0.2,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_021",
+    "query": "在ZTNA的本体安全模块中支持哪些规则设置\n不正确的是?",
+    "gold_doc_ids": [
+      "p1_021_k"
+    ],
+    "retrieved_ids": [
+      "p1_021_k",
+      "p1_006_k",
+      "p1_004_k",
+      "p1_024_k",
+      "p1_005_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_022",
+    "query": "关于零信任应用的溯源审计问题，以下说法错误的是()",
+    "gold_doc_ids": [
+      "p1_022_k"
+    ],
+    "retrieved_ids": [
+      "p1_022_k",
+      "p1_028_k",
+      "p1_011_k",
+      "p1_014_k",
+      "p1_015_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_023",
+    "query": "24.已被工作空间内关联的零信任应用，如何访问?",
+    "gold_doc_ids": [
+      "p1_023_k"
+    ],
+    "retrieved_ids": [
+      "p1_023_k",
+      "p1_011_k",
+      "p1_028_k",
+      "p1_029_k",
+      "p1_015_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_024",
+    "query": "25.ZTNA多因子认证中，哪种认证方式不支持?",
+    "gold_doc_ids": [
+      "p1_024_k"
+    ],
+    "retrieved_ids": [
+      "p1_024_k",
+      "p1_006_k",
+      "p1_021_k",
+      "p1_004_k",
+      "p1_001_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_025",
+    "query": "封装的iOS应用\n可支持的最低i0S系统版本是?",
+    "gold_doc_ids": [
+      "p1_025_k"
+    ],
+    "retrieved_ids": [
+      "p1_025_k",
+      "p1_015_k",
+      "p1_010_k",
+      "p1_026_k",
+      "p1_028_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_026",
+    "query": "关于终端绑定以下说法错误的是0)\n设备绑定不能设置绑定PC的数量和移动终端的数量\n设备绑定用户可以进行多因子自助绑定或管理员审批\n设备绑走可以设置只有签发的设备或只有导入的设备才能绑走",
+    "gold_doc_ids": [
+      "p1_026_k"
+    ],
+    "retrieved_ids": [
+      "p1_026_k",
+      "p1_015_k",
+      "p1_011_k",
+      "p1_028_k",
+      "p1_014_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_027",
+    "query": "工作空间内文件默认情况下不允许导出至空间外，可通过授权方式导出，目前支持的导出方式支持哪些?\nWindows、信创客户端支持右键菜单明文导出、右键菜单密文导出",
+    "gold_doc_ids": [
+      "p1_027_k"
+    ],
+    "retrieved_ids": [
+      "p1_027_k",
+      "p1_018_k",
+      "p1_017_k",
+      "p1_023_k",
+      "p1_012_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_028",
+    "query": "零信任3层、4层、7层应用转发，以下说法错误的是()",
+    "gold_doc_ids": [
+      "p1_028_k"
+    ],
+    "retrieved_ids": [
+      "p1_028_k",
+      "p1_011_k",
+      "p1_015_k",
+      "p1_022_k",
+      "p1_014_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  },
+  {
+    "question_id": "p1_029",
+    "query": "30. 关于零信任应用发布，以下说法错误的是0)",
+    "gold_doc_ids": [
+      "p1_029_k"
+    ],
+    "retrieved_ids": [
+      "p1_029_k",
+      "p1_011_k",
+      "p1_028_k",
+      "p1_023_k",
+      "p1_022_k"
+    ],
+    "hit": true,
+    "rr": 1.0,
+    "question_type": "single"
+  }
+]
