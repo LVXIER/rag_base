@@ -13,7 +13,7 @@ BM25_PATH = BASE / "bm25_index.pkl"
 EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 COLLECTION_NAME = "ngsoc_statements"
 
-TOP_K = 5   # 评估的 K，算 Recall@5
+TOP_K = 7   # 评估的 K，算 Recall@5
 
 
 # ============ 指标函数 ============
@@ -28,11 +28,12 @@ def reciprocal_rank(gold_ids, retrieved_ids):
     """第一个正确结果的倒数排名；没命中返回 0"""
     for rank, rid in enumerate(retrieved_ids, start=1):
         if rid in gold_ids:
+            
             return 1.0 / rank
     return 0.0
 
 
-def evaluate_one_mode(retriever, reranker, eval_set, mode, top_k=5):
+def evaluate_one_mode(retriever, reranker, eval_set, mode, top_k=8):
     """
     mode: "rrf" 或 "rrf+rerank"
     返回 (overall_metrics, per_type_metrics, per_query_details)

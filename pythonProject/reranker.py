@@ -2,7 +2,7 @@ from sentence_transformers import CrossEncoder
 
 
 class Reranker:
-    def __init__(self, model_name="cross-encoder/ms-marco-MiniLM-L-6-v2"):
+    def __init__(self, model_name=r"D:\人工智能集中计划\rag3_min_test\pythonProject\model\bge-reranker-v2-m3"):
         print(f"Loading reranker: {model_name}")
         self.model = CrossEncoder(model_name)
         print("Reranker ready.\n")

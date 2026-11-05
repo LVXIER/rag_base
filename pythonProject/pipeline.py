@@ -18,7 +18,7 @@ class SearchPipeline:
         )
         self.reranker = Reranker()
 
-    def search(self, query, recall_k=20, rrf_keep=20, final_k=5,
+    def search(self, query, recall_k=20, rrf_keep=20, final_k=7,
                rrf_weight_for_rerank=0.0):
         # 1) 混合召回 + RRF（粗排）——先多留一些
         rrf_result = self.retriever.hybrid_search(
@@ -33,7 +33,7 @@ class SearchPipeline:
             query=query,
             candidates=candidates,
             final_k=final_k,
-            threshold=0.0,
+            threshold=-100,
             rrf_weight=rrf_weight_for_rerank,
         )
         return {"rrf": rrf_result, "final": final}
